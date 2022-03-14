@@ -1,1 +1,1 @@
-# Proj-1
+# Tribute Page Project Through FreeCodeCamp
